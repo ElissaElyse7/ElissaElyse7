@@ -1,90 +1,116 @@
+# 👋 Hey, I'm MURENGERANTWARI Elyse
 
+<h3 align="center">🚀 Full-Stack Software Developer | Data Science Student | Cyber Security Learner</h3>
 
-# 👋 Hy, I'm MURENGERANTWARI Elyse
-
-## 🚀 Full-Stack Software Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=30&center=true&vCenter=true&width=600&lines=Developer;JavaScript+Developer;Node.js+Developer;Next.js+Developer;Cyber+Security+Learner" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=30&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+Developer;Node.js+Developer;Next.js+Developer;Data+Science+Student;Cyber+Security+Learner" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Passionate Software Developer
+- 💻 Passionate Full-Stack Software Developer
 - 🌍 Based in Rwanda
-- 🔥 Interested in Full-Stack Development
+- 🔥 Interested in Modern Web Development
+- 📚 Studying Data Science
 - ⚡ Learning Cyber Security
-- 🎯 Building modern web applications
+- 🎯 Building modern and scalable applications
+- 🚀 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### Backend
+## ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Database
+## 🗄️ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+## 🧰 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElissaElyse7&show_icons=true&theme=radical)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElissaElyse7&show_icons=true&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElissaElyse7&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ElissaElyse7&theme=radical)
-
----
-
-## 📂 Featured Projects
-
-### 🌟 Light Education
-Student-focused social media and messaging platform.
-
-### 💬 WhatsApp-like Chat App
-Real-time messaging application.
-
-### 🎥 Video Search App
-Modern video search UI using JavaScript.
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://github.com/ElissaElyse7">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElissaElyse7&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🔥 GitHub Streak
 
-![](https://komarev.com/ghpvc/?username=ElissaElyse7&color=orange)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ElissaElyse7&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 📂 Featured Projects
 
-> "Code. Learn. Build. Repeat."
+## 🌟 Light Education
+Student-focused social media and messaging platform for collaboration and learning.
+
+## 💬 WhatsApp-like Chat App
+Real-time messaging application using Socket.IO.
+
+## 🎥 Video Search App
+Modern video search UI built using JavaScript.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/ElissaElyse7">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-sicret_developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-elyse_dev14-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://wa.me/25079834910">
+<img src="https://img.shields.io/badge/WhatsApp-079834910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ElissaElyse7&color=orange&style=for-the-badge" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+<p align="center">
+
+> ### "Code • Learn • Build • Repeat 🚀"
+
+</p>
