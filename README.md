@@ -47,9 +47,9 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElissaElyse7&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyseprodev&show_icons=true&theme=radical" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElissaElyse7&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyseprodev&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ElissaElyse7&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=elyseprodev&theme=radical" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Modern video search UI built using JavaScript.
 
 <p align="left">
 
-<a href="https://github.com/ElissaElyse7">
+<a href="https://github.com/elyseprodev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -102,7 +102,7 @@ Modern video search UI built using JavaScript.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ElissaElyse7&color=orange&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=elyseprodev&color=orange&style=for-the-badge" />
 </p>
 
 ---
